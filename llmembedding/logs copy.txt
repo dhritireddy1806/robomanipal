@@ -1,0 +1,24 @@
+
+==================================================
+Time:2026-06-04 11:48:41.340765
+Return ONLY valid JSON
+
+Do not use markdown
+DO not use code blocks
+Do not wrap the response in ```json
+
+Expected format:
+{
+    "summary":"string",
+    "keywords":["string"]
+}
+
+User input:
+    Explain machine learning
+
+
+Raw Response:
+{
+    "summary":"Machine learning is a subfield of artificial intelligence that enables systems to learn from data without explicit programming. It uses algorithms to identify patterns, make predictions, and improve performance over time as more data is fed into the system. Key concepts include supervised learning, unsupervised learning, and reinforcement learning, each suited for different types of problems.",
+    "keywords":["machine learning","artificial intelligence","data","algorithms","supervised learning","unsupervised learning","reinforcement learning","patterns","predictions"]
+}

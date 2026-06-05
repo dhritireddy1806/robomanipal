@@ -1,0 +1,14 @@
+Respond normally
+
+Do not use markdown
+DO not use code blocks
+Do not wrap the response in ```json
+
+Expected format:
+{
+    "summary":"string",
+    "keywords":["string"]
+}
+
+User input:
+    {user_input}

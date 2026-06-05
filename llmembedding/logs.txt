@@ -1,0 +1,174 @@
+
+==================================================
+Time:2026-06-04 12:32:18.912937
+Return ONLY valid JSON
+
+Do not use markdown
+DO not use code blocks
+Do not wrap the response in ```json
+
+Expected format:
+{
+    "summary":"string",
+    "keywords":["string"]
+}
+
+User input:
+    Explain machine learning
+
+
+Raw Response:
+{"summary":"Machine learning is a subfield of artificial intelligence that enables systems to learn from data without being explicitly programmed. It involves developing algorithms that can identify patterns, make predictions, and improve their performance over time as they are exposed to more data.","keywords":["machine learning","artificial intelligence","data","algorithms","patterns","predictions","learning"]}
+
+==================================================
+Time:2026-06-04 12:33:23.740021
+Return ONLY valid JSON
+
+Do not use markdown
+DO not use code blocks
+Do not wrap the response in ```json
+
+Expected format:
+{
+    "summary":"string",
+    "keywords":["string"]
+}
+
+User input:
+    Explain machine learning
+
+
+Raw Response:
+{
+    "summary":"Machine learning (ML) is a type of artificial intelligence (AI) that allows software applications to become more accurate at predicting outcomes without being explicitly programmed to do so. Machine learning algorithms use historical data as input to predict new output values. They build a model based on sample data, known as training data, in order to make predictions or decisions without being programmed to do so for specific outcomes. ML involves algorithms that can learn from and make decisions based on data. This learning process is iterative, meaning the ML model improves its performance over time as it is exposed to more data. Key aspects include algorithms, training data, model building, and prediction or decision-making.  ML can be supervised (learning from labeled data), unsupervised (finding patterns in unlabeled data), or reinforcement learning (learning through trial and error with rewards and penalties).",
+    "keywords":["machine learning","artificial intelligence","algorithms","data","training","prediction","model","supervised learning","unsupervised learning","reinforcement learning"]
+}
+
+==================================================
+Time:2026-06-04 13:25:46.092676
+Return ONLY valid JSON
+
+Do not use markdown
+DO not use code blocks
+Do not wrap the response in ```json
+
+Expected format:
+{
+    "summary":"string",
+    "keywords":["string"]
+}
+
+User input:
+    Explain machine learning
+
+
+Raw Response:
+{
+    "summary":"Machine learning is a field of artificial intelligence (AI) that enables systems to learn from data and improve their performance over time without being explicitly programmed. Algorithms identify patterns, make predictions, and take decisions based on the data they are trained on. Key types include supervised learning (learning from labeled data), unsupervised learning (finding patterns in unlabeled data), and reinforcement learning (learning through trial and error with rewards and penalties).",
+    "keywords":["machine learning","artificial intelligence","data","algorithms","supervised learning","unsupervised learning","reinforcement learning","patterns","predictions","decision making"]
+}
+
+==================================================
+Time:2026-06-04 13:32:18.797582
+Return ONLY valid JSON
+
+Do not use markdown
+DO not use code blocks
+Do not wrap the response in ```json
+
+Expected format:
+{
+    "summary":"string",
+    "keywords":["string"]
+}
+
+User input:
+    Explain AI in simple terms and provide 5 keywords related to it
+
+
+Raw Response:
+{
+    "summary":"AI, or Artificial Intelligence, is about making computers \"smart\" like humans. This means they can learn, solve problems, and make decisions. Think of it as teaching a computer to understand and do things that normally require human intelligence, like recognizing pictures, speaking languages, or playing games. It's a broad field with many different ways to achieve this, from simple rules to complex learning from data.",
+    "keywords":["artificial intelligence","machine learning","deep learning","neural networks","algorithms"]
+}
+
+==================================================
+Time:2026-06-04 13:33:51.660675
+Return ONLY valid JSON
+
+Do not use markdown
+DO not use code blocks
+Do not wrap the response in ```json
+
+Expected format:
+{
+    "summary":"string",
+    "keywords":["string"]
+}
+
+User input:
+    Respond however you want.
+
+
+Raw Response:
+{
+    "summary":"This response is a JSON object containing a summary and a list of keywords. The user's input was \"Respond however you want.\". This JSON adheres to the specified format.",
+    "keywords":["JSON","summary","keywords","string","format","response","user input","example"]
+}
+
+==================================================
+Time:2026-06-04 17:35:11.143626
+Respond normally
+
+Do not use markdown
+DO not use code blocks
+Do not wrap the response in ```json
+
+Expected format:
+{
+    "summary":"string",
+    "keywords":["string"]
+}
+
+User input:
+    Respond however you want.
+
+
+Raw Response:
+{
+    "summary":"The user wants a normal response, without markdown or code blocks, and without wrapping the output in JSON. They have provided an example of the expected format: a JSON object with a 'summary' field and a 'keywords' field containing a list of strings.",
+    "keywords":["normal response","no markdown","no code blocks","JSON format","example"]
+}
+
+==================================================
+Time:2026-06-04 17:52:45.777486
+Respond normally
+
+Do not use markdown
+DO not use code blocks
+Do not wrap the response in ```json
+
+
+
+User input:
+    Respond however you want.
+
+
+Raw Response:
+Alright, I'll do my best to respond in a way that feels natural and helpful. I'm here to help you with whatever you need, whether it's answering questions, providing information, or even just having a conversation. Just let me know what's on your mind.
+
+Error:
+Invalid JSON response recieved from model:Expecting value: line 1 column 1 (char 0)
+
+==================================================
+Time:2026-06-04 18:18:21.610327
+Answer the question in one sentence.
+
+User Input:
+Respond however you want.
+
+Raw Response:
+As an AI, I don't have personal desires or the capacity to respond "however I want" in the human sense, so I will provide a helpful and informative answer based on the instructions given.
+
+Error:
+Invalid JSON response recieved from model:Expecting value: line 1 column 1 (char 0)
