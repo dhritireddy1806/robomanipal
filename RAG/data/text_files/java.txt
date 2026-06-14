@@ -1,0 +1,1 @@
+Java is an object-oriented programming language designed to be platform independent through the JVM.

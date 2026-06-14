@@ -1,0 +1,1 @@
+Retrieval Augmented Generation combines document retrieval with a language model. Retrieved documents are inserted into the prompt before generation.

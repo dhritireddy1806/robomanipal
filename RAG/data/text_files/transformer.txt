@@ -1,0 +1,1 @@
+Transformers rely on self-attention instead of recurrent networks. This allows them to process sequences in parallel.

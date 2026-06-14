@@ -1,0 +1,1 @@
+The attention mechanism helps a model determine which words are most important when processing a sentence. Attention mechanisms allow neural networks to focus on the most relevant parts of an input sequence. Each token receives a weight indicating its importance.
